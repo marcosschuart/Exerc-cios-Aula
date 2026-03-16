@@ -1,7 +1,7 @@
 //Nome:Marcos Schuart Nobre de Lima Palhares
 //Matrícula:1261931350
 
-import java.util.Scanner;
+import java.util.*;
 
 public class Exercicio01 {
 
